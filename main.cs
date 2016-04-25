@@ -3,6 +3,7 @@ using System;
 
 class Program
 {
+	//Zmiana
     static void Main()
     {
         Count p = new Count();
